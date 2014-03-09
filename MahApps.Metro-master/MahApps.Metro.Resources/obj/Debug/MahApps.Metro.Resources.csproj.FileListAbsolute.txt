@@ -1,0 +1,10 @@
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\bin\Debug\MahApps.Metro.Resources.dll
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\bin\Debug\MahApps.Metro.Resources.pdb
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\obj\Debug\MahApps.Metro.Resources.csprojResolveAssemblyReference.cache
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\obj\Debug\Icons.baml
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\obj\Debug\MahApps.Metro.Resources_MarkupCompile.cache
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\obj\Debug\MahApps.Metro.Resources.g.resources
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\obj\Debug\MahApps.Metro.Resources.Properties.Resources.resources
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\obj\Debug\MahApps.Metro.Resources.csproj.GenerateResource.Cache
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\obj\Debug\MahApps.Metro.Resources.dll
+C:\Users\Hyx\Desktop\MahApps.Metro-master\MahApps.Metro-master\MahApps.Metro.Resources\obj\Debug\MahApps.Metro.Resources.pdb
